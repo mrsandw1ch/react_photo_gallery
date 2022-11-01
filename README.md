@@ -4,7 +4,7 @@ Uses React
 
 Images and data from https://www.crabdatabase.info/
 
-Gallery has two view modes: *gallery* and *list*.
+Gallery has two view modes: *gallery* and *list*
 
 ### Gallery mode
 
