@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Editorial'; 
+	src: url(../public/fonts/PPEditorialNew-UltralightItalic.otf); 
+}
+
+@font-face {
+	font-family: 'Helvetica'; 
+	src: url(../public/fonts/helvetica_regular.otf); 
+}
+
+@font-face {
+	font-family: 'Helvetica-light'; 
+	src: url(../public/fonts/helvetica_light.otf); 
+}
+
+
+* {
+  box-sizing: border-box;
+  color: white;
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  min-width: 1200px;
+}
+
+body {
+  background-color: black;
+}
