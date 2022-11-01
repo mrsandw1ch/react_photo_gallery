@@ -1,8 +1,8 @@
 # Crab photo gallery
 
-Uses React.
+Uses React
 
-Images and data from https://www.crabdatabase.info/.
+Images and data from https://www.crabdatabase.info/
 
 Gallery has two view modes: *gallery* and *list*.
 
