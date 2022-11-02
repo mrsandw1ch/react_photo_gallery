@@ -25,24 +25,24 @@
                 padding-bottom: 0.5rem;
                 opacity: 0.4;
             }
-        }
-      
-        .location-btn:hover {
-            cursor: pointer;
 
-            h2 {
-                opacity: 1;
+            &:hover {
+                cursor: pointer;
+
+                h2 {
+                    opacity: 1;
+                }
             }
-        }
 
-        .location-btn:disabled {
-            cursor:default;
+            &:disabled {
+                cursor:default;
             
-            h2 {
-                opacity: 0.4;
+                h2 {
+                    opacity: 0.4;
+                }
             }
         }
-    
+
         .location-clicked > h2 {
             font-family: 'Editorial';
             letter-spacing: 0.1rem;
@@ -127,29 +127,29 @@
                 height: 100%;
                 object-fit: cover;
             }
-        }
+
+            &:hover {
+                cursor: pointer;
     
-        .gallery-item:hover {
-            cursor: pointer;
-    
-            .item-caption {
-                background: rgba(15, 15, 15, 0.54);
-                background-blend-mode: overlay, normal;
-                backdrop-filter: blur(18px);
-                -webkit-backdrop-filter: blur(18px);
-                -moz-backdrop-filter: blur(18px);
-    
-                .item-name {
-                    background-color: transparent;
-                    backdrop-filter: none;
-                }
-    
-                .item-info {
-                    visibility: visible;
-                    opacity: 1;
+                .item-caption {
+                    background: rgba(15, 15, 15, 0.54);
+                    background-blend-mode: overlay, normal;
+                    backdrop-filter: blur(18px);
+                    -webkit-backdrop-filter: blur(18px);
+                    -moz-backdrop-filter: blur(18px);
+        
+                    .item-name {
+                        background-color: transparent;
+                        backdrop-filter: none;
+                    }
+        
+                    .item-info {
+                        visibility: visible;
+                        opacity: 1;
+                    }
                 }
             }
-        } 
+        }
     }
 }
 

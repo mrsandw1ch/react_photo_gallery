@@ -24,12 +24,18 @@
                 font-family: 'Editorial';
                 line-height: 5.8rem;
             }
-        }
 
-        .list-item-text:hover {
-            text-decoration: underline;
-            cursor: pointer;
-            z-index: 4;
+            &:hover {
+                text-decoration: underline;
+                cursor: pointer;
+                z-index: 4;
+
+                & + .list-item-image {
+                    z-index: 3;
+                    visibility: visible;
+                    opacity: 1;
+                }
+            }
         }
     
         .list-item-image {
@@ -46,12 +52,6 @@
             z-index: 1;
             transition: visibility 600ms linear 300ms,
                         opacity 600ms linear 300ms;
-        }
-
-        .list-item-text:hover + .list-item-image {
-            z-index: 3;
-            visibility: visible;
-            opacity: 1;
         }
     }
 }
