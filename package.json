@@ -1,6 +1,8 @@
 {
   "name": "crab_photo_gallery",
   "version": "0.1.0",
+  "author": "Dmitry Sviridenko",
+  "homepage": "https://mrsandw1ch.github.io/react_photo_gallery",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
