@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_photo_gallery/static/css/main.de1b87e4.css",
+    "main.js": "/react_photo_gallery/static/js/main.5fe971ec.js",
+    "static/js/787.eb3c0822.chunk.js": "/react_photo_gallery/static/js/787.eb3c0822.chunk.js",
+    "static/media/huoni копия.png": "/react_photo_gallery/static/media/huoni копия.d8b2a1877934d6614cdf.png",
+    "static/media/cycloes-20granulosa копия.png": "/react_photo_gallery/static/media/cycloes-20granulosa копия.2d7e7348692929155ca1.png",
+    "static/media/lyreidus-20tridentatus копия.png": "/react_photo_gallery/static/media/lyreidus-20tridentatus копия.d653b39c2dcb478e7bfa.png",
+    "static/media/pseudolambrus-20harpax-20kopie копия.png": "/react_photo_gallery/static/media/pseudolambrus-20harpax-20kopie копия.bdf20b1bfca599962a06.png",
+    "static/media/eucrate-20tripunctataweb копия.png": "/react_photo_gallery/static/media/eucrate-20tripunctataweb копия.889370f5fc65f4ea17de.png",
+    "static/media/portunus-20sanguinolentus-20kopie копия.png": "/react_photo_gallery/static/media/portunus-20sanguinolentus-20kopie копия.59d9253ce30bf9e43e5e.png",
+    "static/media/heteronucia-20laminata-jpg копия.png": "/react_photo_gallery/static/media/heteronucia-20laminata-jpg копия.ba6e6ca114dc6cf68e58.png",
+    "static/media/Charybdis hellerii .png": "/react_photo_gallery/static/media/Charybdis hellerii .274e647f8fa1cbc0ace7.png",
+    "static/media/mursia-20coseli копия.png": "/react_photo_gallery/static/media/mursia-20coseli копия.33b97a64a6de684f9acd.png",
+    "static/media/dorippe-20quadridens-20kopie копия.png": "/react_photo_gallery/static/media/dorippe-20quadridens-20kopie копия.95014908243714d4582a.png",
+    "static/media/ixa-cylindrus.png": "/react_photo_gallery/static/media/ixa-cylindrus.da1f0b5e2d1a659cd22e.png",
+    "static/media/helvetica_regular.otf": "/react_photo_gallery/static/media/helvetica_regular.da7db66db5a8e54a8308.otf",
+    "static/media/helvetica_light.otf": "/react_photo_gallery/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
+    "static/media/PPEditorialNew-UltralightItalic.otf": "/react_photo_gallery/static/media/PPEditorialNew-UltralightItalic.842b8fc0816370307973.otf",
+    "index.html": "/react_photo_gallery/index.html",
+    "main.de1b87e4.css.map": "/react_photo_gallery/static/css/main.de1b87e4.css.map",
+    "main.5fe971ec.js.map": "/react_photo_gallery/static/js/main.5fe971ec.js.map",
+    "787.eb3c0822.chunk.js.map": "/react_photo_gallery/static/js/787.eb3c0822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1b87e4.css",
+    "static/js/main.5fe971ec.js"
+  ]
+}
