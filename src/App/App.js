@@ -58,12 +58,17 @@ function App() {
                     </button>
                 </div>
                 <h1 id="title">Crabs</h1>
-                <button id="menu-button">Menu</button>
+                <button id="menu-button" title='to be done in future updates...'>Menu</button>
             </header>
             <main>
                 {view === 'gallery' && <Gallery style={{opacity: displayGallery ? 1 : 0}}/>}
                 {view === 'list' && <List style={{opacity: displayList ? 1 : 0}}/>}
             </main>
+            <footer>
+                <p>Images are taken from <a href='https://www.crabdatabase.info/' rel='noreferrer' target='_blank'>www.crabdatabase.info</a></p>
+                <p>	&#169; 2022 coded by mrsandw1ch</p>
+                <p>designed by lil_soup</p>
+            </footer>
         </div>
   );
 }
