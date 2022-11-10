@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_photo_gallery/static/css/main.de1b87e4.css",
-    "main.js": "/react_photo_gallery/static/js/main.5fe971ec.js",
+    "main.css": "/react_photo_gallery/static/css/main.37b3fb9d.css",
+    "main.js": "/react_photo_gallery/static/js/main.603caa28.js",
     "static/js/787.eb3c0822.chunk.js": "/react_photo_gallery/static/js/787.eb3c0822.chunk.js",
     "static/media/huoni копия.png": "/react_photo_gallery/static/media/huoni копия.d8b2a1877934d6614cdf.png",
     "static/media/cycloes-20granulosa копия.png": "/react_photo_gallery/static/media/cycloes-20granulosa копия.2d7e7348692929155ca1.png",
@@ -18,12 +18,12 @@
     "static/media/helvetica_light.otf": "/react_photo_gallery/static/media/helvetica_light.677f82c0f6e45b4eeaf2.otf",
     "static/media/PPEditorialNew-UltralightItalic.otf": "/react_photo_gallery/static/media/PPEditorialNew-UltralightItalic.842b8fc0816370307973.otf",
     "index.html": "/react_photo_gallery/index.html",
-    "main.de1b87e4.css.map": "/react_photo_gallery/static/css/main.de1b87e4.css.map",
-    "main.5fe971ec.js.map": "/react_photo_gallery/static/js/main.5fe971ec.js.map",
+    "main.37b3fb9d.css.map": "/react_photo_gallery/static/css/main.37b3fb9d.css.map",
+    "main.603caa28.js.map": "/react_photo_gallery/static/js/main.603caa28.js.map",
     "787.eb3c0822.chunk.js.map": "/react_photo_gallery/static/js/787.eb3c0822.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de1b87e4.css",
-    "static/js/main.5fe971ec.js"
+    "static/css/main.37b3fb9d.css",
+    "static/js/main.603caa28.js"
   ]
 }
