@@ -10,19 +10,19 @@ Gallery has two view modes: *gallery* and *list*.
 
 Caption is displayed when item is hovered  
 
-![screenshot-1](readme_assets/screenshot1.png)  
+![screenshot-1](https://github.com/mrsandw1ch/react_photo_gallery/blob/media/readme_assets/screenshot1.png)  
 
 Items can be filtered by locations
 
-![screenshot-2](readme_assets/screenshot2.png)
+![screenshot-2](https://github.com/mrsandw1ch/react_photo_gallery/blob/media/readme_assets/screenshot2.png)
 
 ### List mode  
 
-![screenshot-3](readme_assets/screenshot3.png)
+![screenshot-3](https://github.com/mrsandw1ch/react_photo_gallery/blob/media/readme_assets/screenshot3.png)
 
 Image is shown when list item is hovered  
 
-![screenshot-4](readme_assets/screenshot4.png)
+![screenshot-4](https://github.com/mrsandw1ch/react_photo_gallery/blob/media/readme_assets/screenshot4.png)
 
 # Getting Started with Create React App
 
