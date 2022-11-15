@@ -65,9 +65,9 @@ function App() {
                 {view === 'list' && <List style={{opacity: displayList ? 1 : 0}}/>}
             </main>
             <footer>
-                <p>Images are taken from <a href='https://www.crabdatabase.info/' rel='noreferrer' target='_blank'>www.crabdatabase.info</a></p>
-                <p>	&#169; 2022 coded by mrsandw1ch</p>
-                <p>designed by lil_soup</p>
+                <p>Images from <a href='https://www.crabdatabase.info/' rel='noreferrer' target='_blank'>www.crabdatabase.info</a></p>
+                <p>	&#169; 2022 coded by <a href="https://github.com/mrsandw1ch" rel='noreferrer' target='_blank'>mrsandw1ch</a></p>
+                <p>designed by <a href="https://www.behance.net/DariaBorisovna" rel='noreferrer' target='_blank'>lil_soup</a></p>
             </footer>
         </div>
   );
